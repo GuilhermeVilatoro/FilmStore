@@ -5,7 +5,7 @@ plugins {
     kotlin("plugin.spring") version "1.9.0"
 }
 
-group = "com.exemplo"
+group = "store.exemplo"
 version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_21
 
